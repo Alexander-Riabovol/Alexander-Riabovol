@@ -1,5 +1,5 @@
 ### ![](https://github.com/Alexander-Riabovol/Alexander-Riabovol/blob/main/smolgirb.png)
-![Leetcode Stats](https://leetcard.jacoblin.cool/Alexander-Riabovol)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Alexander-Riabovol?theme=wtf&font=Fira%20Code)
 
 <!--
 **Alexander-Riabovol/Alexander-Riabovol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
