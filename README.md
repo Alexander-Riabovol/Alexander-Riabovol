@@ -1,3 +1,4 @@
+### ![](https://github.com/Alexander-Riabovol/Alexander-Riabovol/blob/main/smolgirb.png)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Alexander-Riabovol)
 
 <!--
