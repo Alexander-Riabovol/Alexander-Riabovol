@@ -8,13 +8,14 @@ I'm a **semi-professional backend developer** looking forward to *doing honest w
 
 ### 🛠️ Skills
 
-<p align="lefy"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="padding-right:10px;" alt="csharp" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px" alt="dotnet" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" style="padding-right:10px" alt="mssql" width="40" height="40"/> </a> 
+<img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/>
+<img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  alt="dotnet" width="40" height="40"/>
+<img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+<img align="left" style="padding-right:10px;" src="https://github.com/Alexander-Riabovol/Alexander-Riabovol/blob/main/postman.png" alt="postman" width="40" height="40"/>
+<img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
+<img align="left" style="padding-right:10px;" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="mssql" width="40" height="40"/>
+
+<br />
 
 #
 
