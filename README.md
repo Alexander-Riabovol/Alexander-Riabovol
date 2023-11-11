@@ -2,7 +2,7 @@
 
 `Backend .NET Developer`
 
-I'm a **semi-professional backend developer** looking forward to *doing honest work*. I enjoy the process of *coding* and *app development* in general, and it would definitely be my *hobby* if I didn't consider it my **main specialisation**. *Feel free* to [contact me](#-contact-me) if you want to offer a *partnership* or something else!
+I'm an ambitious **Backend Developer** looking forward to *working in a modern IT company*. I enjoy the process of *coding* and *web development* in general, and I consider it both my **main specialisation** and **hobby**. *Feel free* to [contact me](#-contact-me) if you want to offer a *partnership* or something else!
 
 ---
 
